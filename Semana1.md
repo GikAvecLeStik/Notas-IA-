@@ -1,6 +1,6 @@
 # Notas-IA-
 
-Introduccion a la inteligencia artificial 
+1. Introduccion a la inteligencia artificial 
 
 ** Reseña historia **
     Gestion y nacimiento (1943 - 1956)
@@ -25,19 +25,29 @@ Introduccion a la inteligencia artificial
   Es el desarrollo de agentes racionales. Al interactuar con un entorno (y posiblemente otros 
   agentes) maximice la esperanza de una utilidad futura.
 
-* Los agentes de inteligencia artificial (IA) son programas de software que pueden realizar
+  Los agentes de inteligencia artificial (IA) son programas de software que pueden realizar
   tareas de forma autónoma para alcanzar objetivos.
 
   Los entornos pueden ser físicos o virtuales, y los agentes de IA pueden utilizar diferentes métodos
   para interactuar con ellos.
 
-  Características del entorno
+** Tipos de entorno **
 - Discreto / Continuo
 - Estático / Dinámico
-- Observable / Parcialmente observable • Determinista / estocástico
+- Observable / Parcialmente observable
+      El agente puede ver el       / El agente no puede ver
+      estado del entorno siempre.  / el estado completo del entorno.
+  
+- Determinista / estocástico
+      El estado actual del agente y la accion  / El entorno es completamente
+      seleccionada puede determinar el proximo / random y no puede ser determinado
+      estado del entorno por completo.         / por la accion del agente.
+  
 - Conocido / Desconocido
 - Un agente / Multiagente
 - Episódico /Secuencial
+
+
 
 ** Interactuar racionalmente **
 - Maximizar la utilidad esperada 
@@ -48,6 +58,8 @@ Introduccion a la inteligencia artificial
   aprendizaje y autonomía)
   
  --->> Racional no significa exitoso ni perfecto
+
+ 
 
 
 
