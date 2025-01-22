@@ -25,15 +25,20 @@
   Es el desarrollo de agentes racionales. Al interactuar con un entorno (y posiblemente otros 
   agentes) maximice la esperanza de una utilidad futura.
 
-  Los agentes de inteligencia artificial (IA) son programas de software que pueden realizar
-  tareas de forma autónoma para alcanzar objetivos.
+  Los agentes de inteligencia artificial (IA) son programas de software que pueden    realizar tareas de forma autónoma para alcanzar objetivos. Son capaz de percibir su entorno y actuar según su funcion de forma racional.
 
   Los entornos pueden ser físicos o virtuales, y los agentes de IA pueden utilizar diferentes métodos
   para interactuar con ellos.
 
+  
+
 ** Tipos de entorno **
 - Discreto / Continuo
+      El entorno consiste en un numero / Posee un numero infinito de
+      finito de acciones.              / acciones.
 - Estático / Dinámico
+      El entorno no cambia mientras el  / El entorno puede cambiar con el
+      agente esta trabajando            / paso del tiempo
 - Observable / Parcialmente observable
       El agente puede ver el       / El agente no puede ver
       estado del entorno siempre.  / el estado completo del entorno.
@@ -45,9 +50,12 @@
   
 - Conocido / Desconocido
 - Un agente / Multiagente
+      Hay solamente un agente en el entorno que  / Varios egentes estan operando en
+      opera por si mismo.                        / un entorno.
+  
 - Episódico /Secuencial
-
-
+      *** por revisar
+      
 
 ** Interactuar racionalmente **
 - Maximizar la utilidad esperada 
@@ -59,7 +67,9 @@
   
  --->> Racional no significa exitoso ni perfecto
 
- 
+
+
+
 
 
 
