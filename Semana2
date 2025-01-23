@@ -1,1 +1,16 @@
-hola
+
+6 parametros ---> 60 datos
+mil parametros --> 10,000 datos
+
+¿Por qué?
+mas compleja mi explicacion , la tienes que susentar con datos
+
+error en mis datos sea pequeño --> Ein(h) = 0
+Ein(h) = Eout(h)  
+para aprender necesitas:
+muchos datos en funcion de tu modelo
+y que el modelo genere un modelo con error cerca a 0.
+
+**deep learning
+
+
