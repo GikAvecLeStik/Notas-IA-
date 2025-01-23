@@ -20,6 +20,8 @@ Es un algoritmo recursivo
 
 No puedes encontrar el arbol mas chico, es un problema NP
 
+> la receta de este algoritmo es como escoger la variable:
+ 
 
 
 
