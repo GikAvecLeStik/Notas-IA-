@@ -16,7 +16,7 @@ para aprender necesitas:
 
   ** Arboles de decision **
 los arboles de decision explican los datos
-Es un algoritmo
+Es un algoritmo recursivo
 
 No puedes encontrar el arbol mas chico, es un problema NP
 
