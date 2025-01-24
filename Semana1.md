@@ -1,7 +1,7 @@
 # Notas-IA-
 
-1. Introduccion a la inteligencia artificial 
-
+1. Introduccion a la inteligencia artificial
+13 - 17
 ** Reseña historia **
     Gestion y nacimiento (1943 - 1956)
     La epoca de las grandes expectativas (1952 - 1956)
